@@ -1,0 +1,50 @@
+*{
+  font-size: larger;
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgb(186, 189, 189);
+  color:black;
+
+}
+.main{
+  margin:4%;
+}
+.im{
+  width:25%;
+  height:25%;
+  margin-left:10%;
+  margin-top:4%;
+  float: left;
+}
+.song{
+  font-size: small;
+
+}
+.links li {
+  font-size: medium;
+  font-weight: 400;
+  float:left;
+  padding:150px;
+  list-style-type: none;
+}
+
+li{
+  list-style:decimal ;
+}
+.main{
+  text-align: center;
+}
+.common{
+  height:50%;
+  width:40%;
+
+}
+.intro{margin-left: 50%;
+}
+
+.life{
+  margin-left: 50%;
+}
+
+.fam{
+  margin-left: 50%;
+}
